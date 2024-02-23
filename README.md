@@ -7,3 +7,5 @@ https://github.com/yanue/V2rayU/releases
 V2rayU Android 客户端
 https://github.com/2dust/v2rayNG/releases
 
+clash-verge
+https://github.com/backup-genius/clash-verge/releases
