@@ -9,3 +9,7 @@ https://github.com/2dust/v2rayNG/releases
 
 clash-verge
 https://github.com/backup-genius/clash-verge/releases
+
+Clash for Windows/Android 
+https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases
+
